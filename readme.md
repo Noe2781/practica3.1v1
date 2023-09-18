@@ -1,0 +1,1 @@
+<h1>creamos una clase llamada frutas y sus objetos son manzana y banana</h1>
